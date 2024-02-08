@@ -6,7 +6,7 @@ In web development, especially in JavaScript, we work with APIs that send and re
 
 An example of an API that you can make a request to right now and see the JSON response would be the Github API. In your browser, go to the following URL:
 
-https://api.github.com/users/bradtraversy
+https://api.github.com/users/Nischit17
 
 You will see the result is in JSON format.
 
@@ -26,9 +26,9 @@ We have methods available to turn JavaScript objects into JSON strings and vice 
 
 ```js
 const obj = {
-  name: 'John',
+  name: "John",
   age: 30,
-  city: 'New York',
+  city: "New York",
 };
 
 // Turn object into JSON string
